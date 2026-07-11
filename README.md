@@ -1,4 +1,4 @@
-# Tetris (C++ / ncirses)
+# Tetris (C++ / ncurses)
 
 Implementazione del classico gioco **Tetris** in C++, con interfaccia realizzata tramite la libreria **ncurses**. Progetto sviluppato come lavoro di gruppo per il corso di Programmazione — A.A. 2023/2024, Università di Bologna.
 
