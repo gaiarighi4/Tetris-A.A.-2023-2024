@@ -5,8 +5,9 @@ Implementazione del classico gioco **Tetris** in C++, con interfaccia realizzata
 ---
 
 Progetto sviluppato da:
-- **Gaia Righi:** 
+- **Gaia Righi** 
 - **Lucia Parisi**
+- **Greta La China**
 - **Maria Paola Klein Serini** 
 
 ---
